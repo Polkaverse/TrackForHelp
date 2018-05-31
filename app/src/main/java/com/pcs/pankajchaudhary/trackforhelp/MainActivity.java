@@ -188,5 +188,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         final AlertDialog alert = builder.create();
         alert.show();
     }
-
 }
