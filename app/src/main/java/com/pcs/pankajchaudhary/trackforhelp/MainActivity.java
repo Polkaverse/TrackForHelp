@@ -83,7 +83,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
 
-
        Btn2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
